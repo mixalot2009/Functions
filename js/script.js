@@ -45,13 +45,13 @@ function randomNumber5(a,b){
     return numberGenerator;
     //returning code to argument.
 }
-console.log(number)
+console.log("Your lucky number 1 is " + number + "!")
 //output for function 1
-console.log(number2)
+console.log("Your lucky number 1 is " + number2 + "!")
 //output for function 2
-console.log(number3)
+console.log("Your lucky number 1 is " + number3 + "!")
 //output for function 3
-console.log(number4)
+console.log("Your lucky number 1 is " + number4 + "!")
 //output for function 4
-console.log(number5)
+console.log("Your lucky number 1 is " + number5 + "!")
 //output for function 5
