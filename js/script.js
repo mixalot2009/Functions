@@ -61,9 +61,11 @@ if(wantNumbers) {
 //output for function 4
     console.log("Your 5th lucky is " + number5 + "!")
 //output for function 5
-    alert("Your lucky numbers are" + number + ", " + number2 + ", " + number3 + ", " + number4 + ", and " + number5 + "!")
+    alert("Your lucky numbers are " + number + ", " + number2 + ", " + number3 + ", " + number4 + ", and " + number5 + "!")
 //alerting person to lucky numbers
 }else{
     console.log("Sorry you didn't want your lucky numbers.")
     //output if answer to initial question was no
+    alert("Sorry you didn't want your lucky numbers.")
+    //alerting person they did not want there lucky numbers
 }
