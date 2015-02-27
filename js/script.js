@@ -2,13 +2,13 @@
 
 var number = randomNumber(1,2);
 //defining the arguments
-var number2 = randomNumber2(1,2);
+var number2 = randomNumber2(1,3);
 //defining the arguments
-var number3 = randomNumber2(1,2);
+var number3 = randomNumber2(1,4);
 //defining the arguments
-var number4 = randomNumber2(1,2);
+var number4 = randomNumber2(1,5);
 //defining the arguments
-var number5 = randomNumber2(1,2);
+var number5 = randomNumber2(1,6);
 //defining the arguments
 function randomNumber(a,b){
     //defining the parameters
