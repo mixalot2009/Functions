@@ -5,11 +5,11 @@ var number = randomNumber(1,2);
 //defining the arguments
 var number2 = randomNumber2(1,3);
 //defining the arguments
-var number3 = randomNumber2(1,4);
+var number3 = randomNumber3(1,4);
 //defining the arguments
-var number4 = randomNumber2(1,5);
+var number4 = randomNumber4(1,5);
 //defining the arguments
-var number5 = randomNumber2(1,6);
+var number5 = randomNumber5(1,6);
 //defining the arguments
 if(wantNumbers) {
     function randomNumber(a, b) {
