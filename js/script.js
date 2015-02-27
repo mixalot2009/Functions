@@ -46,7 +46,12 @@ function randomNumber5(a,b){
     //returning code to argument.
 }
 console.log(number)
+//output for function 1
 console.log(number2)
+//output for function 2
 console.log(number3)
+//output for function 3
 console.log(number4)
+//output for function 4
 console.log(number5)
+//output for function 5
